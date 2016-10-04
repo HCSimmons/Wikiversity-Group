@@ -27,9 +27,10 @@ Mackenzie
 3. Complete the project fast and correctly 
 
 Hannah:
-1. Understanding open commons learning 
+1. Understanding Open Commons learning 
 2. Leading a team in a group project 
-3.
+3. Understand Wikiversity and be able to tell someone how it works and why they should use it
+
 
 Brian:
 1.
