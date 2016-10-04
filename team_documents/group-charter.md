@@ -1,44 +1,42 @@
 # Template for Group Charter
 
-Transcribe team charter and commit to your master repository. <a href="http://www.w3schools.com/html/">Basic HTML</a> tags allowed. 
-<h2>Team Roles</h2>
-Project Manager: Hannah Simmons<br/>
-Teachnology: Courtney Kamm<br/>
-Details/Secretary: Mackenzie Bishop<br/>
-Researcher: Brian Romski<br/>
+Group Charter
+Member Roles:
+Hannah-Team Leader: Take charge, keep everyone on task, push the team to our end results of this project, deciding factor if problems occur. 
+Mackenzie-Secretary/Janitor: Write everything down including ideas, questions, and push forward with any of the documentation parts of this project, go into the project and clean everything up. 
+Courtney-Tech Wiz: Look into the website, figuring out how it works, understanding the purpose of website and why it is important, then reporting back to the group with all information that is discovered. 
+Brian-Researcher: Research wikiversity and how it works and what it can be used for. 
 
-<table>
-<th colspan="4"><h1 align="center">Team Charter</h1></th>
-<tr>
-<td>Broad Team Goals</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Measurable Team Goals</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Personal Goals</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Individual Committment</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Other Concerns</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Conflict Resolution</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Missed Deadlines</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>Unacceptable Work</td>
-<td colspan="3"></td>
-</tr>
-</table> 
+Team Goals:
+Designing product that is appealing 
+Everyone participates and is involved
+We set dates within our own groups to make sure our project is underway
+Positive communication among all team members
+
+Individual Goals: (3 each member)
+Mackenzie 
+Get better at Wikiversity 
+Having a productive and friendly team experience
+Complete the project fast and correctly 
+Hannah:
+Understanding open commons learning 
+Leading a team in a group project 
+3.
+Brian:
+1.
+2.
+3.
+Courtney:
+Understand the different ways to use Wikiversity & maybe implement it into my school work.
+Complete a project I am happy to present to the entire class.
+Gain a stronger understanding of Open Commons learning and how it can be implemented into everyday learning.
+Conflict/Resolution/Workflow:
+Team leader will make final decision if we can’t agree.
+If someone can’t finish an assignment on time, they must ask for help instead of just not doing their work.
+Unacceptable Work:
+Not finishing your assigned task on time.
+Not finishing your assigned task at all.
+Having half done assignments. 
+Not communicating with the rest of the team members. 
+
+
