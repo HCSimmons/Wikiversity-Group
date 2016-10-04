@@ -1,9 +1,14 @@
 # Template for Group Charter
 
 Transcribe team charter and commit to your master repository. <a href="http://www.w3schools.com/html/">Basic HTML</a> tags allowed. 
+<h2>Team Roles</h2>
+Project Manager: Hannah Simmons
+Teachnology: Courtney Kamm
+Details/Secretary: Mackenzie Bishop
+Researcher: Brian Romski
 
 <table>
-<th colspan="4"><h1 align="center">Team Charter (Name of Team)</h1></th>
+<th colspan="4"><h1 align="center">Team Charter</h1></th>
 <tr>
 <td>Broad Team Goals</td>
 <td colspan="3"></td>
