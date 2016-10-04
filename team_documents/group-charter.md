@@ -18,26 +18,32 @@ Everyone participates and is involved
 We set dates within our own groups to make sure our project is underway
 Positive communication among all team members
 
-Individual Goals: (3 each member)
+Individual Goals:
+
 Mackenzie 
 Get better at Wikiversity 
 Having a productive and friendly team experience
 Complete the project fast and correctly 
+
 Hannah:
 Understanding open commons learning 
 Leading a team in a group project 
-3.
+
+
 Brian:
 1.
 2.
 3.
+
 Courtney:
 Understand the different ways to use Wikiversity & maybe implement it into my school work.
 Complete a project I am happy to present to the entire class.
 Gain a stronger understanding of Open Commons learning and how it can be implemented into everyday learning.
+
 Conflict/Resolution/Workflow:
 Team leader will make final decision if we can’t agree.
 If someone can’t finish an assignment on time, they must ask for help instead of just not doing their work.
+
 Unacceptable Work:
 Not finishing your assigned task on time.
 Not finishing your assigned task at all.
