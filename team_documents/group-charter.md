@@ -1,10 +1,15 @@
 # Template for Group Charter
 
 Group Charter
+
 Member Roles:
-Hannah-Team Leader: Take charge, keep everyone on task, push the team to our end results of this project, deciding factor if problems occur. 
+
+Hannah-Team Leader: Take charge, keep everyone on task, push the team to our end results of this project, deciding factor if problems occur.
+
 Mackenzie-Secretary/Janitor: Write everything down including ideas, questions, and push forward with any of the documentation parts of this project, go into the project and clean everything up. 
+
 Courtney-Tech Wiz: Look into the website, figuring out how it works, understanding the purpose of website and why it is important, then reporting back to the group with all information that is discovered. 
+
 Brian-Researcher: Research wikiversity and how it works and what it can be used for. 
 
 Team Goals:
