@@ -12,14 +12,15 @@ Member Roles:
 
 -Brian-Researcher: Research wikiversity and how it works and what it can be used for. 
 
+
 Team Goals:
 1. Designing product that is appealing 
 2. Everyone participates and is involved
 3. We set dates within our own groups to make sure our project is underway
 4. Positive communication among all team members
 
-Individual Goals:
 
+Individual Goals:
 Mackenzie 
 1. Get better at Wikiversity 
 2. Having a productive and friendly team experience
@@ -40,9 +41,11 @@ Courtney:
 2. Complete a project I am happy to present to the entire class.
 3. Gain a stronger understanding of Open Commons learning and how it can be implemented into everyday learning.
 
+
 Conflict/Resolution/Workflow:
 -Team leader will make final decision if we can’t agree.
 -If someone can’t finish an assignment on time, they must ask for help instead of just not doing their work.
+
 
 Unacceptable Work:
 -Not finishing your assigned task on time.
